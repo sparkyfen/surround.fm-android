@@ -1,0 +1,15 @@
+<resources>
+        <string name="title_activity_register">Register</string>
+
+    <!-- Strings related to register -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_confirm_email">Confirm Email</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_register">Register</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_mismatch_password">Passwords don\'t match</string>
+    <string name="error_mismatch_email">Email addresses don\'t match</string>
+    <string name="error_generic_register">Registration failed</string>
+    <string name="log_tag_register">SurroundFM_Register</string>
+</resources>

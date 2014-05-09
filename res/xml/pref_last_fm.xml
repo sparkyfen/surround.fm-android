@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+
+    <com.surroundfm.surroundfm.app.LinkAccountPreference
+        android:key="link_accounts"
+        android:title="@string/pref_title_link_accounts"
+        android:summary="Enter Your Last.FM Account Name"
+        android:positiveButtonText="@string/pref_link_accounts_ok_button_text"
+        android:negativeButtonText="@string/pref_link_accounts_cancel_button_text" />
+
+</PreferenceScreen>

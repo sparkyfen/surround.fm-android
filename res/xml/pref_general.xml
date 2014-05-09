@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Preference
+        android:key="change_avatar"
+        android:title="@string/pref_title_change_avatar" />
+
+    <com.surroundfm.surroundfm.app.ChangePasswordPreference
+        android:key="change_password"
+        android:title="@string/pref_title_change_password"
+        android:summary="@string/pref_summary_change_password"
+        android:positiveButtonText="@string/pref_change_password_ok_button_text"
+        android:negativeButtonText="@string/pref_change_password_cancel_button_text" />
+
+</PreferenceScreen>

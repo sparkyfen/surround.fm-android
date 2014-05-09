@@ -1,0 +1,4 @@
+<resources>
+    <string name="log_tag_home">SurroundFM_Home</string>
+    <string name="action_logout">Logout</string>
+</resources>
